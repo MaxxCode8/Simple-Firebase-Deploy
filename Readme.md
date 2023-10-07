@@ -1,4 +1,5 @@
-# Simple `Full-Stack Web App` with <p style="color:yellow;">Firebase</p> ( Backend as a Service )
+# Simple `Full-Stack Web App` with <span style="color:yellow;">Firebase 🔥</span> BaaS 
+( Backend as a Service )
 
 _Guided Project: [By Fireship](https://www.youtube.com/watch?v=q5J5ho7YUhA)_
 
