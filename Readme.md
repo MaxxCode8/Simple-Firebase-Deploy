@@ -1,6 +1,6 @@
 # Simple `Full-Stack Web App` with <p style="color:yellow">Firebase</p> ( Backend as a Service )
 
-_Guided Project: <href src="https://www.youtube.com/watch?v=q5J5ho7YUhA"> by Fireship</href>_
+_Guided Project: <href link="https://www.youtube.com/watch?v=q5J5ho7YUhA"> by Fireship</href>_
 
 * Getting Started
     >Create a Firebase Project
